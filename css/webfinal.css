@@ -1,0 +1,52 @@
+html {
+    background-image: url(../images/koifishbackground.jpg);
+}
+
+body{
+    width: 1000px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    background: linear-gradient(to bottom, #80ffff 0%, #000099 100%);
+    border: 15px double #4db8ff;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.7);
+    text-align: center; 
+}
+
+h1{
+    font-family: "Chewy", "Arial", sans-serif;
+    font-size: 30pt;
+    color: #ffa366;
+}
+
+a{
+    font-size: 16pt;
+    font-family: "Chewy", serif;
+    color: #70dbdb;
+    text-decoration-style: dotted;
+}
+
+a:hover{
+    color: #0044cc;
+}
+
+img{
+    box-shadow: 
+16px 16px 16px rgba(0,0,0,.7);
+        border: 10px ridge #4db8ff;
+    margin-bottom: 30px;
+}
+
+video{
+    height: 400px;
+    width: 600px;
+}
+
+h2{
+  font-family: "Redressed", sans-serif;
+    font-size: 20pt;
+    line-height: 18pt;
+    color: #b3f0ff;  
+}
